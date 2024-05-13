@@ -1,0 +1,50 @@
+.a{
+    color:red;
+    background-color: 0;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+    text-shadow: 2px 2px 8px rgb(17, 16, 16);
+    font-size: 100px;
+}
+
+.b{
+    color:aliceblue;
+    background-color:0;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+    text-shadow: 2px 2px 8px rgb(17, 16, 16);
+    font-size: 50px;
+}
+
+.c{
+    color:aliceblue;
+    background-color: 0;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+    text-shadow: 2px 2px 8px rgb(17, 16, 16);
+    font-size: 30px;
+}
+
+.d{
+    color:aliceblue;
+    background-color:red;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    box-shadow: 0px 0px 0px;
+    border-radius: 5000px;
+    text-shadow: 2px 2px 8px rgb(17, 16, 16);
+    font-size: 30px;
+    width: 50%;
+    margin: auto;
+    
+}
